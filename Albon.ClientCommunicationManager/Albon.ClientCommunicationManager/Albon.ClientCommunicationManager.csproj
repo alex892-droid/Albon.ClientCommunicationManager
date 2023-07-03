@@ -1,9 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Albon.ClientCommunicationManager</Title>
+    <PackageProjectUrl>https://github.com/alex892-droid/Albon.ClientCommunicationManager</PackageProjectUrl>
+    <Copyright>MIT</Copyright>
+    <RepositoryUrl>https://github.com/alex892-droid/Albon.ClientCommunicationManager</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>client; communication; manager; email</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
