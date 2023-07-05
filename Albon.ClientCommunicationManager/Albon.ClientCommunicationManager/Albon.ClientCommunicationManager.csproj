@@ -13,9 +13,4 @@
     <PackageTags>client; communication; manager; email</PackageTags>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Albon.EmailSender" Version="1.0.0" />
-    <PackageReference Include="AttributeSharedKernel" Version="1.0.0" />
-  </ItemGroup>
-
 </Project>

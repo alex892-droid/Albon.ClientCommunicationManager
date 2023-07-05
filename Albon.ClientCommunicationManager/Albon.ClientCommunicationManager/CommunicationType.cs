@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClientCommunication
+namespace Albon.ClientCommunicationManager
 {
     public enum CommunicationType
     {
-        AccountCreationNotification,
-        ValidationCode
+        Email
     }
 }
