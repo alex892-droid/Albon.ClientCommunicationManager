@@ -1,6 +1,4 @@
-﻿using Albon.ClientCommunicationManager;
-
-namespace ClientCommunication
+﻿namespace Albon.ClientCommunicationManager
 {
     public class CommunicationBlueprint
     {
